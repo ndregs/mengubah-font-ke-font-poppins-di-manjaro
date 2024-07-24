@@ -40,7 +40,7 @@ makepkg -si
 ```
 Jika Anda mendapat pesan kesalahan terkait izin:
 ```bash
-==> ERROR: You do not have write permission for the directory $BUILDDIR (/home/ndregs/Downloads/ttf-poppins).
+==> ERROR: You do not have write permission for the directory $BUILDDIR (/home/user/dir/ttf-poppins).
 ```
 Ubah izin direktori agar pengguna Anda memiliki akses tulis:
 ```bash
