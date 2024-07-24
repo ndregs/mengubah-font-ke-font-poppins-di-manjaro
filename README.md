@@ -72,6 +72,6 @@ Setelah instalasi selesai, Anda dapat memverifikasi apakah font Poppins telah te
 
    - Untuk memastikan perubahan font diterapkan secara penuh, ```reboot``` sistem Anda lagi. Anda dapat melakukannya melalui terminal dengan perintah:
 
-   ```bash
-   reboot
-   ```
+```bash
+reboot
+```
