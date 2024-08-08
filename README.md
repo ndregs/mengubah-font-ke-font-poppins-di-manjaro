@@ -1,4 +1,4 @@
-# Tutorial: Mengubah Font Sistem ke Font Poppins di Manjaro
+# Mengubah Font Sistem ke Font Poppins di Manjaro
 
 Tutorial ini akan memandu Anda untuk mengubah font sistem menjadi font Poppins di Manjaro Linux.
 
